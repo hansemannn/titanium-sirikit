@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: titanium-sirikit
+author: Hans Knoechel
+license: Apache 2
+copyright: Copyright (c) 2017-Present by Hans Knoechel
+
+# these should not be edited
+name: titanium-sirikit
+moduleid: ti.sirikit
+guid: d31d9dc9-17c1-451b-9d78-6c24d2a95767
+platform: iphone
+minsdk: 5.5.1.GA
