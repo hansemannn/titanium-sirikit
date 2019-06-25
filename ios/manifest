@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: titanium-sirikit is a Swift based Titanium module.
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2019 by Your Company
+
+# these should not be edited
+name: titanium-sirikit
+moduleid: ti.sirikit
+guid: 7b914b8c-1790-4dc2-84aa-5b63d879fa28
+platform: iphone
+minsdk: 8.2.0
